@@ -1,0 +1,4 @@
+displayName = Goo
+author = Webmilio, MercuriusXeno
+version = 0.1
+modReferences = WebmilioCommons
